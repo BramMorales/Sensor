@@ -2,7 +2,7 @@
 
 Bienvenido a la página de información sobre nuestro sensor de nivel de agua. Este sensor es una herramienta útil para medir y monitorear los niveles de agua en diversas aplicaciones. A continuación, encontrarás detalles sobre el sensor, cómo funciona y cómo puedes utilizarlo.
 
-<img src="https://i.ytimg.com/vi/oCrySFQ1Pq4/maxresdefault.jpg" width="750" height="500">
+<br><br><center><img src="https://i.ytimg.com/vi/oCrySFQ1Pq4/maxresdefault.jpg" width="750" height="500"></center>
 
 
 ## Descripción del Sensor
