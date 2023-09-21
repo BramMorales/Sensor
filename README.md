@@ -3,22 +3,22 @@
 Bienvenido a la página de información sobre nuestro sensor de nivel de agua. Este sensor es una herramienta útil para medir y monitorear los niveles de agua en diversas aplicaciones. A continuación, encontrarás detalles sobre el sensor, cómo funciona y cómo puedes utilizarlo.
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://i.ytimg.com/vi/oCrySFQ1Pq4/maxresdefault.jpg" width="500" height="250">
+  <br><br><img src="https://i.ytimg.com/vi/oCrySFQ1Pq4/maxresdefault.jpg" width="500" height="250">
 </div>
 
 ## Descripción del Sensor
 
 Su objetivo principal es proporcionar información precisa sobre la cantidad de agua presente en un tanque, depósito, cuerpo de agua o cualquier otro sistema que requiera monitoreo de nivel. Aquí tienes una descripción general de un sensor de nivel de agua típico:
 
-**Características Principales:
+**Características Principales:**
 
-  1.- Tecnología de Medición: Los sensores de nivel de agua pueden utilizar diversas tecnologías, como ultrasonido, capacitancia, presión, flotadores, óptica, entre otras, dependiendo de la aplicación específica y los requisitos de precisión.
+  1.- **Tecnología de Medición:** Los sensores de nivel de agua pueden utilizar diversas tecnologías, como ultrasonido, capacitancia, presión, flotadores, óptica, entre otras, dependiendo de la aplicación específica y los requisitos de precisión.
 
-  2.- Tipo de Montaje: Pueden ser diseñados para montaje en la parte superior del tanque (para medición de nivel superior), en la parte inferior (para medición de nivel inferior) o en el lateral (para medición de nivel lateral).
+  2.- **Tipo de Montaje:** Pueden ser diseñados para montaje en la parte superior del tanque (para medición de nivel superior), en la parte inferior (para medición de nivel inferior) o en el lateral (para medición de nivel lateral).
 
-  3.- Rango de Medición: Cada sensor tiene un rango específico en el que puede medir el nivel de agua con precisión. Esto se refiere a la distancia máxima entre el sensor y la superficie del agua que puede detectar.
+  3.- **Rango de Medición:** Cada sensor tiene un rango específico en el que puede medir el nivel de agua con precisión. Esto se refiere a la distancia máxima entre el sensor y la superficie del agua que puede detectar.
 
-  4.- Precisión: La precisión del sensor es la capacidad de proporcionar mediciones confiables y exactas del nivel de agua. La precisión puede variar según el tipo de sensor y la tecnología utilizada.
+  4.- **Precisión:** La precisión del sensor es la capacidad de proporcionar mediciones confiables y exactas del nivel de agua. La precisión puede variar según el tipo de sensor y la tecnología utilizada.
 
 ## Cómo Funciona
 
