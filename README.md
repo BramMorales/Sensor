@@ -10,7 +10,7 @@ Bienvenido a la página de información sobre nuestro sensor de nivel de agua. E
 
 Su objetivo principal es proporcionar información precisa sobre la cantidad de agua presente en un tanque, depósito, cuerpo de agua o cualquier otro sistema que requiera monitoreo de nivel.
 
-##Características principales.
+## Características principales.
 
 1. **Tecnología de Medición:** Los sensores de nivel de agua pueden utilizar diversas tecnologías, como ultrasonido, capacitancia, presión, flotadores, óptica, entre otras, dependiendo de la aplicación específica y los requisitos de precisión.
 
